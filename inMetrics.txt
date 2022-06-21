@@ -1,0 +1,1067 @@
+<tr>
+                <td style="width: 9.47894%;" class="confluenceTd">command line entry</td>
+                <td style="width: 8.53659%;" class="confluenceTd">Testcase*</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">testcase name</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd">can be concatenation of&nbsp; dir hierarchy name to
+                    help differentiation&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">TEST_NAME</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>hls mode only&nbsp;</strong></td>
+            </tr>
+            <tr>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">TEST_BLOCK</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>hls mode only&nbsp;</strong></td>
+            </tr>
+            <tr>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">TEST_RTL</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>hls mode only&nbsp;</strong></td>
+            </tr>
+            <tr>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff"><br></td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff">RTL_MODULE</td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff"><br></td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff">string</td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff">sub module name based on rpt file generated by catapult,</td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-#e6fcff confluenceTd" title="Background color : Light teal 35%" colspan="1"
+                    data-highlight-colour="#e6fcff"><strong><span style="color: rgb(0,0,0);">For runtest mode
+                            ONLY,</span></strong> this help to differentiate in Testcase when same Testcase name&nbsp;
+                    with different the rpt file&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">slec.log</td>
+                <td colspan="1" class="confluenceTd">BUILD_VERSION</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">string</td>
+                <td colspan="1" class="confluenceTd">slec build version (EXP: SLEC-2021.1_NIGHTLY/953135)</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">slec.log</td>
+                <td colspan="1" class="confluenceTd">BUILD_DATE</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">string</td>
+                <td colspan="1" class="confluenceTd">slec build s number(EXP: S2108231800)</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">slec.log</td>
+                <td colspan="1" class="confluenceTd">APP</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">string</td>
+                <td colspan="1" class="confluenceTd">check which app is processed : Idle/Stall/Slec/CPC/ Property</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">results.xml&nbsp;</td>
+                <td style="width: 8.53659%;" class="confluenceTd">STATUS</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd"><strong>Pass/fail</strong> status: Pass includes all
+                    maps resolved or 1 or more falsifications. Fail means timeout or various bugs inside Catapult/SLEC
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><strong>HIER_FAIL </strong>also added for HLS mode to
+                    differentiate the fail due catapult</td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">results.xml / *.log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">STATUS_TYPE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">string representing the type of failure</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">results.xml / *.log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">STATUS_LINE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">short line from the failure_mode pattern from
+                    result.xml</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">results.xml / *.log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">LAST_ENGINE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">final engine when the timeout/error happens&nbsp;</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">slec.log</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">SLEC_STATUS</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">string</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>Pass/fail</strong>&nbsp; slec status&nbsp;</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>hls mode only&nbsp;</strong></td>
+            </tr>
+            <tr>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">slec.log</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">SLEC_STATUS_LINE</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><br></td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">string</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">line of&nbsp; pattern that confirm slec status</td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-#fffae6 confluenceTd" title="Background color : Light yellow 35%" colspan="1"
+                    data-highlight-colour="#fffae6"><strong>hls mode only&nbsp;</strong></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">From slec .qor file</td>
+                <td colspan="1" class="confluenceTd">EXIT_STAT</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">int</td>
+                <td colspan="1" class="confluenceTd">slec exit status</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="5" class="confluenceTd">From&nbsp;rtl.rpt -&nbsp;Processes/Blocks
+                    in Design</td>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_REAL_OPTS</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Real Operation(s) count</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_LATENCY</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Latency</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_THROUGHPUT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Throughput</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_RESET_LEN</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Reset Length</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_II</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">II</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="3" class="confluenceTd">From&nbsp;rtl.rpt - Bill Of Materials</td>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_TOTAL_AREA</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">float</td>
+                <td style="width: 22.949%;" class="confluenceTd">TOTAL AREA (After Assignment)</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_COMB_AREA</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">float</td>
+                <td style="width: 22.949%;" class="confluenceTd">Combinational area</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HLS_SEQ_AREA</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">float</td>
+                <td style="width: 22.949%;" class="confluenceTd">sequential area</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="13" class="confluenceTd">From&nbsp;rtl.rpt -&nbsp; Operator
+                    Bitwidth Summary<br><br><br></td>
+                <td style="width: 8.53659%;" class="confluenceTd">MUL_LARGEST_BW</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">multiplier with biggest&nbsp;Bitwidth size</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">MUL_COUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">count of&nbsp;multiplier with biggest&nbsp;Bitwidth
+                    size&nbsp;</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">DIV_LARGEST_BW</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">&nbsp;divider&nbsp; largest Bitwidth size</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd">May need to adjust pattern name as no case found for
+                    this operator</td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">DIV_COUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">count of&nbsp;divider with biggest&nbsp;Bitwidth size
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">ADD_LARGEST_BW</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">adder with biggest&nbsp;Bitwidth size</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">ADD_COUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">count of&nbsp;adder with biggest&nbsp;Bitwidth size
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">SHIFT_LARGEST_BW</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">shift with biggest&nbsp;Bitwidth size</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd">May need to adjust pattern name as no case found for
+                    this operator</td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">SHIFT_COUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">count of&nbsp;shift with biggest&nbsp;Bitwidth size
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">REG_TCOUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">total count of different bitwidth size register</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">MUX_TCOUNT</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">total count of different bitwidth size&nbsp;<span
+                        style="color: rgb(0,51,102);"><a class="external-link"
+                            href="https://www.google.com/search?rlz=1C1GCEB_enUS835US835&amp;q=multiplexer&amp;spell=1&amp;sa=X&amp;ved=2ahUKEwiq9o_MoKnyAhWmyYUKHagWALYQkeECKAB6BAgBEDE"
+                            rel="nofollow" style="text-decoration: none;color: rgb(0,51,102);">multiplexer</a></span>
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">RUN_MODE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">
+                    <p>catapult test? HLS vs System vs RTL/RTL C/RTL&nbsp;</p>
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-moved conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">ON HOLD</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><span style="color: rgb(255,102,0);">we may
+                        consider&nbsp;the VERIFICATION_MODE for now </span></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">SPEC_CODE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">type of spec file&nbsp;</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-moved conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">ON HOLD</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><span style="color: rgb(255,102,0);"><span
+                            style="color: rgb(0,51,102);">Jim proposal, get details on CODE used
+                            C/VLOG/VHDL/SVLOG</span></span></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">IMPL_CODE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">type of impl file&nbsp;</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-moved conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">ON HOLD</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">From slec .qor file</td>
+                <td style="width: 8.53659%;" class="confluenceTd">VERIFICATION_MODE</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">pick the verification mode set for slec</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">From SLEC log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">ENG_SEQ_STATUS</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">string</td>
+                <td style="width: 22.949%;" class="confluenceTd">status pass or fail&nbsp; based on respect of engine
+                    sequence call</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">From SLEC log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">TOTAL_MEM</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Total memory at the end of flow</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">From SLEC log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">PMEM</td>
+                <td style="width: 7.81596%;" class="confluenceTd">PEAK_MEM</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Peak memory at end of verify</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" class="confluenceTd">From slec .qor file</td>
+                <td style="width: 8.53659%;" class="confluenceTd">LEVEL_PROOF</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">Level proof similar to the one in .qor file</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">From slec&nbsp; file</td>
+                <td colspan="1" class="confluenceTd">TOTAL_MAPS</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">int</td>
+                <td colspan="1" class="confluenceTd">total number of maps</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">From slec&nbsp; file</td>
+                <td colspan="1" class="confluenceTd">TOTAL_UNRESOLVED</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">int</td>
+                <td colspan="1" class="confluenceTd">BoundedProven + UNRESOLVED for output,Activeintermediate and
+                    properties Maps&nbsp;</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><strong>EXCEPTION :</strong> For BEC here: If proof depth is met,
+                    then BP=proven, else BP=Unresolved.&nbsp;<span style="color: rgb(255,102,0);"> to be
+                        confirmed</span></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">From slec&nbsp; file</td>
+                <td colspan="1" class="confluenceTd">%COMPLETE</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">float</td>
+                <td colspan="1" class="confluenceTd">100%x(Proven+CondProven+Falsified)/Total_MAPS</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td colspan="1" class="confluenceTd">From slec file</td>
+                <td colspan="1" class="confluenceTd">BOUNDED_PROVEN_DEPTH</td>
+                <td colspan="1" class="confluenceTd"><br></td>
+                <td colspan="1" class="confluenceTd">int</td>
+                <td colspan="1" class="confluenceTd">Proven depth of Bounded proof base last "[SEQ-DOP]"</td>
+                <td colspan="1" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td colspan="1" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="6" class="confluenceTd">From SLEC log</td>
+                <td style="width: 8.53659%;" class="confluenceTd">LIIProven</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps proven after LII&nbsp; engine call</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">LIIFalsified</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps Falsified after LII&nbsp; engine call
+                </td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HIIProven</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps proven after HII engine call</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HIIFalsified</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps Falsified after HII engine call</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">OutputProven</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps proven for last engine called</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">OutputFalsified</td>
+                <td style="width: 7.81596%;" class="confluenceTd"><br></td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">number of maps Falsified for last engine called</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="19" class="confluenceTd">From SLEC log or .err</td>
+                <td style="width: 8.53659%;" class="confluenceTd">FE</td>
+                <td style="width: 7.81596%;" class="confluenceTd">FE_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of FE step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">SETUP</td>
+                <td style="width: 7.81596%;" class="confluenceTd">SETUP_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of setup step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">VERIFY</td>
+                <td style="width: 7.81596%;" class="confluenceTd">VERIFY_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of verify step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">ENGINES</td>
+                <td style="width: 7.81596%;" class="confluenceTd">ENGINES_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time&nbsp; of sequential analysis steps -
+                    normalizing spec and impl netlists for sequential analysis step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">FULL_FLOW</td>
+                <td style="width: 7.81596%;" class="confluenceTd">FULL_FLOW_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of full flow</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd">
+                    <p>Need to recheck for cat2slec cases as RT is not accurate due separated steps run_cat2slec,
+                        run_slec</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">RUN_SLEC</td>
+                <td style="width: 7.81596%;" class="confluenceTd">RUN_SLEC_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock of run_slec command</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">SBV</td>
+                <td style="width: 7.81596%;" class="confluenceTd">SBV_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of SBV of verify step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">LII</td>
+                <td style="width: 7.81596%;" class="confluenceTd">LII_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of LII of verify step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">L0</td>
+                <td style="width: 7.81596%;" class="confluenceTd">L0_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of L0 engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">Concolic</td>
+                <td style="width: 7.81596%;" class="confluenceTd">Concolic_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of&nbsp;Concolic engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">LL3</td>
+                <td style="width: 7.81596%;" class="confluenceTd">LL3_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of LL3 engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">LL1</td>
+                <td style="width: 7.81596%;" class="confluenceTd">LL1_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of&nbsp;LL1&nbsp; engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HII</td>
+                <td style="width: 7.81596%;" class="confluenceTd">HII_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time at end of HII of verify step</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HL1</td>
+                <td style="width: 7.81596%;" class="confluenceTd">HL1_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of HL1&nbsp; engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HL2</td>
+                <td style="width: 7.81596%;" class="confluenceTd">HL2_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of HL2&nbsp; engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">HL3</td>
+                <td style="width: 7.81596%;" class="confluenceTd">HL3_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of HL3&nbsp; engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 8.53659%;" class="confluenceTd">BEC</td>
+                <td style="width: 7.81596%;" class="confluenceTd">BEC_REALTIME</td>
+                <td style="width: 3.10421%;" class="confluenceTd">int</td>
+                <td style="width: 22.949%;" class="confluenceTd">wall clock time of&nbsp; BEC engine</td>
+                <td style="width: 7.64967%;" class="confluenceTd">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td style="width: 25.4989%;" class="confluenceTd"><br></td>
+            </tr>
+            <tr>
+                <td class="highlight-grey confluenceTd" style="width: 8.53659%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">%ENG/VER</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.81596%;" data-highlight-colour="grey">
+                    %ENG_REALTIME/VER_REALTIME</td>
+                <td class="highlight-grey confluenceTd" style="width: 3.10421%;" data-highlight-colour="grey">float</td>
+                <td class="highlight-grey confluenceTd" style="width: 22.949%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">percentage of wall clock consumed by engine vs wall clock of verify
+                    step&nbsp;</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.64967%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 25.4989%;" title="Background colour : Grey"
+                    data-highlight-colour="grey"><br></td>
+            </tr>
+            <tr>
+                <td class="highlight-grey confluenceTd" style="width: 8.53659%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">%ENG/FLOW</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.81596%;" data-highlight-colour="grey">
+                    %ENG_REALTIME/FLOW_REALTIME</td>
+                <td class="highlight-grey confluenceTd" style="width: 3.10421%;" data-highlight-colour="grey">float</td>
+                <td class="highlight-grey confluenceTd" style="width: 22.949%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">percentage of wall clock consumed by engine vs wall clock of full flow
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 7.64967%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 25.4989%;" title="Background colour : Grey"
+                    data-highlight-colour="grey"><br></td>
+            </tr>
+            <tr>
+                <td style="width: 9.47894%;" rowspan="3" class="confluenceTd">SLEC and HLS Files path</td>
+                <td class="highlight-grey confluenceTd" style="width: 8.53659%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">LOG_FILE</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.81596%;" data-highlight-colour="grey"><br></td>
+                <td class="highlight-grey confluenceTd" style="width: 3.10421%;" data-highlight-colour="grey">string
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 22.949%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">path of slec log file</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.64967%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 25.4989%;" title="Background colour : Grey"
+                    data-highlight-colour="grey"><br></td>
+            </tr>
+            <tr>
+                <td class="highlight-grey confluenceTd" style="width: 8.53659%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">RTL_FILE</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.81596%;" data-highlight-colour="grey"><br></td>
+                <td class="highlight-grey confluenceTd" style="width: 3.10421%;" data-highlight-colour="grey">string
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 22.949%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">path of rtl.rpt&nbsp; file from HLSTOOL env</td>
+                <td class="highlight-grey confluenceTd" style="width: 7.64967%;" title="Background colour : Grey"
+                    data-highlight-colour="grey">
+                    <div class="content-wrapper" title="">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-grey confluenceTd" style="width: 25.4989%;" title="Background colour : Grey"
+                    data-highlight-colour="grey"><br></td>
+            </tr>
+            <tr>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey">CATLOG_PATH</td>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey"><br></td>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey">string</td>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey">path to catapult.log</td>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey">
+                    <div class="content-wrapper">
+                        <p><span class="status-macro aui-lozenge aui-lozenge-success conf-macro output-inline"
+                                data-hasbody="false" data-macro-name="status">DONE</span></p>
+                    </div>
+                </td>
+                <td class="highlight-grey confluenceTd" title="Background color : " colspan="1"
+                    data-highlight-colour="grey"><br></td>
+            </tr>
